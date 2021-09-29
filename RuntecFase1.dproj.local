@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/11 14:27:59.000.107,=C:\Users\Welington\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/11 14:54:56.000.484,D:\Runtec - Fase1\Fontes\uConsultaMusicas.pas=C:\Users\Welington\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/11 14:54:56.000.484,D:\Runtec - Fase1\Fontes\uConsultaMusicas.fmx=C:\Users\Welington\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/03/11 14:55:03.000.309,D:\Runtec - Fase1\Fontes\RuntecFase1.dproj=C:\Users\Welington\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/03/11 18:30:11.000.169,=D:\Runtec - Fase1\Fontes\uJson.DTO.pas</Transaction>
+    <Transaction>2021/03/11 18:30:11.000.179,=D:\Runtec - Fase1\Fontes\uJson.pas</Transaction>
+    <Transaction>2021/03/11 18:33:46.000.079,D:\Runtec - Fase1\Fontes\uJson.pas=</Transaction>
+    <Transaction>2021/03/11 18:33:46.000.072,D:\Runtec - Fase1\Fontes\uJson.DTO.pas=</Transaction>
+    <Transaction>2021/03/11 19:16:11.000.539,=D:\Runtec - Fase1\Fontes\uJson.DTO.pas</Transaction>
+    <Transaction>2021/03/11 19:16:11.000.558,=D:\Runtec - Fase1\Fontes\uJson.pas</Transaction>
+    <Transaction>2021/03/11 19:24:37.000.668,D:\Runtec - Fase1\Fontes\uJson.pas=</Transaction>
+    <Transaction>2021/03/11 19:24:37.000.660,D:\Runtec - Fase1\Fontes\uJson.DTO.pas=</Transaction>
+    <Transaction>2021/03/11 19:25:20.000.385,=D:\Runtec - Fase1\Fontes\Pkg.Json.DTO.pas</Transaction>
+    <Transaction>2021/03/11 19:25:20.000.395,=D:\Runtec - Fase1\Fontes\RootUnit.pas</Transaction>
+    <Transaction>2021/03/11 19:27:18.000.577,D:\Runtec - Fase1\Fontes\Pkg.Json.DTO.pas=D:\Runtec - Fase1\Fontes\TJsonRantecMusic.pas</Transaction>
+    <Transaction>2021/03/11 19:28:17.000.527,D:\Runtec - Fase1\Fontes\RootUnit.pas=D:\Runtec - Fase1\Fontes\uJsonRantedMusic.pas</Transaction>
+    <Transaction>2021/03/11 19:29:32.000.858,D:\Runtec - Fase1\Fontes\TJsonRantecMusic.pas=D:\Runtec - Fase1\Fontes\uJson.pas</Transaction>
+    <Transaction>2021/03/11 19:29:42.000.762,D:\Runtec - Fase1\Fontes\uJsonRantedMusic.pas=D:\Runtec - Fase1\Fontes\uJsonDTO.pas</Transaction>
+    <Transaction>2021/03/11 20:08:13.000.276,D:\Runtec - Fase1\Fontes\uJson.pas=</Transaction>
+    <Transaction>2021/03/11 20:08:13.000.266,D:\Runtec - Fase1\Fontes\uJsonDTO.pas=</Transaction>
+    <Transaction>2021/03/12 10:10:59.000.346,=D:\Runtec - Fase1\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/03/12 10:12:56.000.561,D:\Runtec - Fase1\Fontes\uDM_Modulo.dfm=D:\Runtec - Fase1\Fontes\Unit1.dfm</Transaction>
+    <Transaction>2021/03/12 10:12:56.000.561,D:\Runtec - Fase1\Fontes\uDM_Modulo.pas=D:\Runtec - Fase1\Fontes\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
